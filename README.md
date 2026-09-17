@@ -103,38 +103,42 @@ Kindly, Replace Cell 2 with:
 
 Official Documentation: https://developers.google.com/youtube/v3
 
-## How to Execute the Project
+## **How to Execute the Project**
 
-Follow these steps exactly for executing the Project.
+This project is submitted as a Google Colab Notebook (`.ipynb`) and is hosted in a public GitHub repository.
 
-### Step 1
+### **Step 1 - Open the Notebook from GitHub**
+* Open the GitHub repository.
+* Click `YouTube_Content_Performance_Dashboard.ipynb`.
+* Click **Open in Colab** (or copy the GitHub URL and open it through Google Colab).
 
-Open the Notebook in Google Colab.
+**GitHub Repository:** `https://colab.research.google.com/github/emilyncynthiasamuel/YouTube-Content-Performance-Dashboard/blob/main/YouTube_Content_Performance_Dashboard.ipynb#scrollTo=fXr-XJddxxNN`
 
-### Step 2
+### **Step 2 - Save your own editable copy**
+In Google Colab, click:
+* **File** → **Save a copy in Drive**
+This creates an editable copy for execution.
 
-Run **Cell 1** to install all required libraries.
+### **Step 3 - Insert your YouTube API key**
+Open **Cell 2** and replace:
+**API_KEY = "YOUR_API_KEY"**
 
-### Step 3
-
-Insert your YouTube API key into **Cell 2**.
-
-### Step 4
-
-Run Cells **2 -> 9** sequentially.
+### **Step 4 - Run the notebook**
+Run the cells from Cell 1 to Cell 9 in sequential order.
 
 Kindly Note: Do not skip any cells.
 
-### Step 5
+### **Step 5 - Wait for the Dashboard**
+After Cell 8 finishes executing, the interactive dashboard will appear automatically.
 
-Wait for the dashboard to load.
+### **Step 6 - Interact with the Dashboard**
+Use the dropdown menu at the top of the dashboard:
 
-### Step 6
+Whole Channel -> Displays overall channel analytics.
 
-Use the dropdown menu.
+Any Video Title -> Displays statistics for the selected video.
 
-* **Whole Channel** displays overall analytics.
-* Selecting any video displays that video's statistics.
+The KPI cards, monthly views chart, and video details update automatically whenever a different video is selected.
 
 ## Dashboard Outputs
 
