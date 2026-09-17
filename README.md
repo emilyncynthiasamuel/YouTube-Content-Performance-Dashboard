@@ -3,9 +3,6 @@
 
 An interactive Python Dashboard using the YouTube Data API v3, ipywidgets and Plotly to analyze YouTube Channel Metrics, Track Video Engagement and Visualize Monthly View Trends.
 
-## **GitHub Repository Link**
-https://github.com/emilyncynthiasamuel/YouTube-Content-Performance-Dashboard
-
 ## **Project Demonstration Video Link** 
 https://www.youtube.com/watch?v=jkpVVBP6B3E
 
