@@ -50,11 +50,9 @@ These are the Features:
 
 Run Cell 1.
 
-!pip install google-api-python-client pandas plotly ipywidgets
+**!pip install google-api-python-client pandas plotly ipywidgets**
 
-The notebook automatically installs all required packages.
-
----
+The notebook automatically installs all the required packages.
 
 ## Creating a YouTube API Key
 
@@ -96,25 +94,19 @@ Select **API Key**.
 
 Copy the generated key.
 
-Replace Cell 2 with:
+Kindly, Replace Cell 2 with:
 
-```python
-API_KEY = "YOUR_API_KEY"
-```
-
-**Do not publish your personal API key on GitHub.**
+**API_KEY = "YOUR_API_KEY"**
 
 Official Documentation: https://developers.google.com/youtube/v3
 
----
-
 ## How to Execute the Project
 
-Follow these steps exactly.
+Follow these steps exactly for executing the Project.
 
 ### Step 1
 
-Open the notebook in Google Colab.
+Open the Notebook in Google Colab.
 
 ### Step 2
 
@@ -128,7 +120,7 @@ Insert your YouTube API key into **Cell 2**.
 
 Run Cells **2 → 9** sequentially.
 
-Do not skip any cells.
+Kindly Note: Do not skip any cells.
 
 ### Step 5
 
@@ -141,23 +133,19 @@ Use the dropdown menu.
 * **Whole Channel** displays overall analytics.
 * Selecting any video displays that video's statistics.
 
----
-
 ## Dashboard Outputs
 
 The dashboard displays:
 
-* Total Views
-* Total Likes
-* Total Comments
-* Engagement Rate
-* Published Date
-* Monthly Views Chart
-* Video Details Table
+(i) Total Views
+(ii) Total Likes
+(iii) Total Comments
+(iv) Engagement Rate
+(v) Published Date
+(vi) Monthly Views Chart
+(vii) Video Details Table
 
-The dashboard updates automatically whenever a different video is selected.
-
----
+Kindly Note: The dashboard updates automatically whenever a different video is selected.
 
 ## YouTube API Requests
 
@@ -172,30 +160,16 @@ One complete execution performs only **3 API requests**.
 
 The implementation uses batch requests, making it efficient and suitable for repeated demonstrations.
 
----
-
 ## API Quota
 
 The YouTube Data API v3 provides **10,000 quota units per day** for free projects.
 
-This dashboard consumes only a very small portion of the daily quota because video statistics are retrieved in one batch request.
-
----
+This dashboard consumes only a very small portion of the daily quota and this is because video statistics are retrieved in one batch request.
 
 ## Future Improvements
 
-* Comment sentiment analysis
-* Multiple channel comparison
-* Category filtering
-* Watch time analytics
-* Audience retention metrics
-
----
-
-## Author
-
-Emilyn Cynthia Benny Samuel
-
-MEng Computer Science
-
-GISMA University of Applied Sciences
+(i) Comment sentiment analysis
+(ii) Multiple channel comparison
+(iii) Content Category filtering
+(iv) Watch time analytics
+(v) Audience retention metrics
