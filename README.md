@@ -111,8 +111,7 @@ This project is submitted as a Google Colab Notebook (`.ipynb`) and is hosted in
 * Open the GitHub repository.
 * Click `YouTube_Content_Performance_Dashboard.ipynb`.
 * Click **Open in Colab** (or copy the GitHub URL and open it through Google Colab).
-
-**GitHub Repository:** `https://colab.research.google.com/github/emilyncynthiasamuel/YouTube-Content-Performance-Dashboard/blob/main/YouTube_Content_Performance_Dashboard.ipynb#scrollTo=fXr-XJddxxNN`
+**GitHub Repository URL:** `https://colab.research.google.com/github/emilyncynthiasamuel/YouTube-Content-Performance-Dashboard/blob/main/YouTube_Content_Performance_Dashboard.ipynb`
 
 ### **Step 2 - Save your own editable copy**
 In Google Colab, click:
