@@ -22,7 +22,7 @@ Tourism Businesses are often organized by Tourism Organizations, which regularly
 
 **Industry: Tourism and Hospitality**
 
-**Primary YouTube Channel: visitBerlin Official YouTube Channel**
+**Primary YouTube Channel: visitBerlin Official YouTube Channel : https://www.youtube.com/@visitBerlin**
 
 **Target Audience: International and domestic travelers, culture enthusiasts, event-goers, and business delegates planning visits or conventions in Berlin.**
 
