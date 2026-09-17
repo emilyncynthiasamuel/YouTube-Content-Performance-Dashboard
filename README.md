@@ -6,6 +6,9 @@ An interactive Python Dashboard using the YouTube Data API v3, ipywidgets and Pl
 ## **Project Demonstration Video Link** 
 https://www.youtube.com/watch?v=jkpVVBP6B3E
 
+## **GitHub Repository-Google Colab Link**
+https://colab.research.google.com/github/emilyncynthiasamuel/YouTube-Content-Performance-Dashboard/blob/main/YouTube_Content_Performance_Dashboard.ipynb
+
 ## Project Overview
 
 This project is a YouTube Content Performance Dashboard, which is a Business Intelligence (BI) Application developed in Python using Live Data from the YouTube Data API v3. 
