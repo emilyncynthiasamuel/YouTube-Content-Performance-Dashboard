@@ -124,7 +124,7 @@ Insert your YouTube API key into **Cell 2**.
 
 ### Step 4
 
-Run Cells **2 → 9** sequentially.
+Run Cells **2 -> 9** sequentially.
 
 Kindly Note: Do not skip any cells.
 
