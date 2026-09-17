@@ -24,7 +24,7 @@ Tourism Businesses are often organized by Tourism Organizations, which regularly
 
 **Primary YouTube Channel: visitBerlin Official YouTube Channel : https://www.youtube.com/@visitBerlin**
 
-**Target Audience: International and domestic travelers, culture enthusiasts, event-goers, and business delegates planning visits or conventions in Berlin.**
+**Target Audience: Travelers, culture enthusiasts, event goers and business delegates planning the visits in Berlin.**
 
 **Key Stakeholder: Digital Marketing Manager (Tourism and Destination Branding)**
 
